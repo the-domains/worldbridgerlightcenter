@@ -1,6 +1,6 @@
 name: Worldbridger Lightcenter
 favicon: null
-layout_spectrum: 0.86384
+layout_spectrum: 1
 typography_spectrum: 0.18006388121284544
 cta:
   domain: null
@@ -22,7 +22,7 @@ color:
     - '#2667FF'
     - '#3B28CC'
   brandStrength: 0.3158076915424317
-  lightness: 0.5886644765269011
-  saturation: 0.5546297074761242
-  rhythmicContrast: 0.8535256099421531
+  lightness: 0.5625
+  saturation: 0.4375
+  rhythmicContrast: 0.5
 purpose: []
